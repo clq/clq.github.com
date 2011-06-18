@@ -7,7 +7,6 @@ layout: default
     {{ page.title }}
   </a></h2>
   <div id="date">committed {{ page.date | date_to_string }}</div>
-  Test Test
   {{ content }}
 </div>
 <div id="sidebar-container">
