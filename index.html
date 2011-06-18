@@ -1,1 +1,22 @@
-This is just a test-page.
+---
+layout: default
+title: Home
+---
+
+<div id="about">
+  <h2>About Me</h2>
+  Hello World!
+  <blockquote>
+    I was told by one of the greatest pimps that ever lived, his name
+    is "God", that if you know what you've got, then you ain't got
+    much.
+  </blockquote>
+</div>
+<div id="home">
+  <h2>Blog Posts</h2>
+  <ul class="posts">
+    {% for post in site.posts %}
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
