@@ -6,7 +6,7 @@ layout: default
   <h2>
     {{ page.title }}
 </h2>
-  <div id="date">Posted on {{ page.date | date_to_string }}</div>
+  <div id="date">Made on {{ page.date | date_to_string }}</div>
   {{ content }}
 </div>
 <div id="sidebar-container">
