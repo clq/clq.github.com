@@ -1,10 +1,10 @@
-header {
+.header {
 	font-family:comic sans ms;
 	font-size:22pt;
     color:#98AFC7;
 }
 
-content {
+.content {
 	font-family:arial;
 	font-size:11pt;
     color:#98AFC7;
