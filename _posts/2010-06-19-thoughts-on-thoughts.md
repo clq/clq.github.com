@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I'm irrelevant
+title: Thoughts on Original Thoughts
 ---
 
 !["The Thinker"](/img/thinker.jpg)
@@ -28,3 +28,5 @@ And that is it. Every few weeks I go through the above in my head, and it always
 40 years from now there is bound to be a social networking site that catalogues all your thoughts. Your thoughts would be automatically categorised and labelled, and certain thoughts would be automatically shared with your friends based on dodgy privacy settings. Just think of how interesting and useful the trending topics would be! A feature of this site would, of course, be to alert you if the thought you just thought was unique, giving you a range of “perhaps you meant to think this?” options so you can be sure nothing too similar has been thought before.
 
 Now there’s an idea…
+
+Photo by [Brian Hillegas](http://www.flickr.com/photos/seatbelt67/502255276/).
