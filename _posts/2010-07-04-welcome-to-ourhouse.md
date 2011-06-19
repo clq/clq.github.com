@@ -33,4 +33,4 @@ The opening concert as a whole was also quite a success. The Danish/English "toa
 
 This post is getting very lengthy, so I am cutting it off here. Tune in some time in the near future for part two, in which Finnish is sung, pink is worn, food is eaten and the weather turns vicious. Edit: <a href="http://www.christianleonardquale.com/?p=71">Here it is, part 2.</a>
 
-All photos in the post are taken by [http://www.jacobmathiasen.dk/?page_id=474](Jacob Mathiasen).
+All photos in the post are taken by [Jacob Mathiasen](http://www.jacobmathiasen.dk/?page_id=474).
