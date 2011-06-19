@@ -19,5 +19,5 @@
 }
 
 body {
-	background-image:"url(rock.jpg)";
+	background-image:"url('../css/rock.jpg')";
 }
