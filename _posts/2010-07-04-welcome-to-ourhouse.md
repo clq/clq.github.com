@@ -15,7 +15,7 @@ On Tuesday we set off at silly o'clock to take a bus at 5 from Oslo. We travelle
 
 This might be an appropriate time to mention what we were actually doing in Denmark. Cantus Aeterna had been invited to the <a href="http://www.nkkf.dk" target="_blank">Nordic Choir and Cultural festival</a> in &Aring;rhus. We had the honour of representing Norway, and along with us there were youth-choirs from Finland, Denmark and Sweden. The whole thing took place in and around "Musikhuset" in &Aring;rhus.
 
-<div style="float:left" id="image">
+<div style="float:left" id="image" width="300px">
 <img src="http://www.christianleonardquale.com/wp-content/uploads/2010/11/Nkkf_28Juni-6817-300x300.jpg" alt="The exterior of Musikhuset was slightly modified for the occasion."/><br>
 The exterior of Musikhuset. Modified for the occasion.
 </div>
