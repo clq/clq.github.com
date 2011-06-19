@@ -17,7 +17,7 @@ This might be an appropriate time to mention what we were actually doing in Denm
 
 <div style="float:left" id="image">
 <img src="http://www.christianleonardquale.com/wp-content/uploads/2010/11/Nkkf_28Juni-6817-300x300.jpg" alt="The exterior of Musikhuset was slightly modified for the occasion."/><br>
-The exterior of Musikhuset was slightly modified for the occasion.
+The exterior of Musikhuset. Modified for the occasion.
 </div>
 
 Having arrived in &Aring;rhus without as much as a-minor accident (har har, choir humour) we were shown to our accommodation; a small to medium-sized gym-hall at a local primary-school. For those of you who have never slept in a gym-hall, it's great! There was loads of space on the hard floor for all 17 of us, and the acoustics are so good that if someone happens to be telling a funny joke to someone right next to them at 2am, it echoes throughout the room for all to hear. The layout chosen by the school for the space was very contemporary. The hall had a very spacious feel about it, something which was contributed to by the minimalist approach to interior-design and a very modern high ceiling. We could tell right away that this was going to be a luxurious stay in Denmark for us.
