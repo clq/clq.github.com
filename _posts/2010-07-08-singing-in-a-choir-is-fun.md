@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to OurHouse! - Denmark, part 1
+title: Why singing in a choir is a lot more fun than you think it is – Denmark, part 3
 ---
 
 <img src="/img/den3.jpg" alt="Singers"/>
