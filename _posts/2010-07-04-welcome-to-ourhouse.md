@@ -31,6 +31,6 @@ I should probably explain why this temporary drought bothered me this much. Befo
 
 The opening concert as a whole was also quite a success. The Danish/English "toastmaster" brilliantly balanced the task of being formal with being funny. You will have forgotten it by now, but the title of this post, "Welcome to OurHouse", is based on his observation that the Irish voices of the Ryan Air stewardesses sound like they are saying "Welcome to Our House" when welcoming their valued, and indeed valuable, passengers to &Aring;rhus. The other choirs from Finland, Sweden and Denmark were also very good, so all in all, after I had sat down in the hall, the rest of the evening was actually rather enjoyable. I should add for the record, the acoustics in the symphonic hall <em>were</em> very good and fun to sing in. I hope you will excuse my bitterness about the whole water-thing.
 
-This post is getting very lengthy, so I am cutting it off here. Tune in some time in the near future for part two, in which Finnish is sung, pink is worn, food is eaten and the weather turns vicious. Edit: <a href="http://www.christianleonardquale.com/?p=71">Here it is, part 2.</a>
+This post is getting very lengthy, so I am cutting it off here. Tune in some time in the near future for part two, in which Finnish is sung, pink is worn, food is eaten and the weather turns vicious. Edit: [Here it is, part 2.](/blog/posts/music-heat-and-hens/)
 
 All photos in the post are taken by [Jacob Mathiasen](http://www.jacobmathiasen.dk/?page_id=474).

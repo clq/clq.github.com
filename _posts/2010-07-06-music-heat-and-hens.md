@@ -31,6 +31,6 @@ The second concert, in St. Pauls Church, was Cantus' last concert (for now). My 
 
 At the last social gathering in Ridehuset one of the people in charge joked along the lines of: "And let's all thank the staff of the cathedral and other churches, for doing their part in giving us this fantastic weather!" And the weather was fantastic throughout the week. Brutal, but fantastic. Based on the week we had one could be forgiven for thinking one had accidentally travelled to Spain, or as I put it to some Finnish singers, for thinking one had walked into a giant sauna. I found it a little too sizzling, but I am sure the majority quite enjoyed it.
 
-Once again I am running long, so this concludes part 2. Stay tuned (using a fork if required) for the third and final part in which Uranienborg Vokalensemble almost wins a competition, I actually speak to people and I attempt to explain why singing in a choir is probably one of the most fun and enriching things one can be a part of. Part 3 can now be found <a href="http://www.christianleonardquale.com/?p=111">here</a>.
+Once again I am running long, so this concludes part 2. Stay tuned (using a fork if required) for the third and final part in which Uranienborg Vokalensemble almost wins a competition, I actually speak to people and I attempt to explain why singing in a choir is probably one of the most fun and enriching things one can be a part of. Part 3 can now be found [here](/blog/posts/singing-in-a-choir-is-fun/).
 
 Photo by Jacob Mathiasen taken from [here](http://www.jacobmathiasen.dk/?page_id=474).

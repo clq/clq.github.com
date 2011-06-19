@@ -5,7 +5,7 @@ title: Why singing in a choir is a lot more fun than you think it is - Denmark, 
 
 <img src="/img/den3.jpg" alt="Singers"/>
 
-This is a continuation of <a href="http://www.christianleonardquale.com/?p=71" target="_self">part 2</a>.
+This is a continuation of [part 2](/blog/posts/music-heat-and-hens/).
 
 This will be the final post in this series of Denmark-posts, I promise. I didn't want to make the other posts too long, for the sake of the few of you who will have read them. This post will be about the choir-competition, the amazing people I've sung with, and how I feel singing in choirs is an experience no one will understand until they have tried.
 
