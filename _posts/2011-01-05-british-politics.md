@@ -5,7 +5,7 @@ title: British politics as seen through my Norwegian eyes
 
 ![The house of commons](/img/commons.jpg)
 
-I have now been fortunate enough to have lived in Edinburgh for two and a half years. During that time, and annoyingly in the middle on an exam-period, I was fortunate enough to witness a UK general election. I have never been extremely engaged in politics, however, I do take an interest in them. This is not a political post. It is a post containing some of my personal thoughts on UK politics as a whole.
+I have now been fortunate enough to have lived in Edinburgh for two and a half years. During that time, and annoyingly in the middle of an exam-period, I was fortunate enough to witness a UK general election. I have never been extremely engaged in politics, however, I do take an interest in them. This is not a political post. It is a post containing some of my personal thoughts on UK politics as a whole.
 
 Before I came to the UK I would occasionally download and watch Prime Ministers Question-time. I loved it. There were real issues, the people speaking seemed genuinely engaged, smart and as an added bonus they were funny. There are a lot of theatrics involved, yes, but who doesn't love a bit of theatrics? Of course, it would be impossible to form an opinion on British politics as a whole based only on PMQT, but my impression of the whole thing was that it would be pretty interesting. Real debates on real issues. However, British politics have let me down.
 
