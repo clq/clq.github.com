@@ -11,7 +11,7 @@ title: Home
 You have somehow stumbled over my personal website. Sorry about that.
 <br>
 <br>
-  <h4>'Recent' Blog Posts:</h4>
+  <h4>Least Ancient Blog Posts:</h4>
 
     {% for post in site.posts limit:5 %}
     {{ post.date | date: "%e %B, %Y" }} &raquo; <a href="{{ post.url }}">{{ post.title }}</a><br>
