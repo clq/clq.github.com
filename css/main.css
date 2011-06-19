@@ -115,7 +115,7 @@ vertical-align:middle; margin-bottom: 3px; }
 .left { margin: 0.5em 0.8em 0.5em 0; float:left; } 
 
 .content{
-  margin-left: 110px;
+  margin-left: 5px;
   width: 650px;
   margin-bottom: 50px;
 }
@@ -135,7 +135,7 @@ vertical-align:middle; margin-bottom: 3px; }
   border-bottom: 1px solid #eee;
 }
 .related li span{
-  float: left;
+  float: right;
 }
 .related a{
   text-decoration: none;
