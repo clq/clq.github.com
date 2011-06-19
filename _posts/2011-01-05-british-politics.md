@@ -3,7 +3,7 @@ layout: post
 title: British politics as seen through my Norwegian eyes
 ---
 
-!["The Thinker"](/img/thinker.jpg)
+![The house of commons](/img/commons.jpg)
 
 I have now been fortunate enough to have lived in Edinburgh for two and a half years. During that time, and annoyingly in the middle on an exam-period, I was fortunate enough to witness a UK general election. I have never been extremely engaged in politics, however, I do take an interest in them. This is not a political post. It is a post containing some of my personal thoughts on UK politics as a whole.
 
