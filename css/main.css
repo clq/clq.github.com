@@ -80,7 +80,7 @@ line-height:36px; }
 	font-size:11pt;
     max-width:100%;
     border-style:solid;
-    border-width:5px;
+    border-width:1px;
     white-space:normal; 
 
 }
@@ -97,4 +97,12 @@ A:link {text-decoration: none}
 A:visited {text-decoration: none}
 A:active {text-decoration: none}
 A:hover {text-decoration: underline; color: red;}
+
+.picture { background-color: #F9F9F9; 
+border: 1px solid #CCCCCC; padding: 3px; 
+font: 11px/1.4em Arial, sans-serif; } 
+.picture img { border: 1px solid #CCCCCC; 
+vertical-align:middle; margin-bottom: 3px; } 
+.right { margin: 0.5em 0pt 0.5em 0.8em; float:right; } 
+.left { margin: 0.5em 0.8em 0.5em 0; float:left; } 
 
