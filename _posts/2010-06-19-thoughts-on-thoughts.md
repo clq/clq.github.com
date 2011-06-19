@@ -5,11 +5,11 @@ title: Thoughts on Original Thoughts
 
 !["The Thinker"](/img/thinker.jpg)
 
-John: "Hey! I have an idea!"  return
-Henry: "Oh dear, now what?"  return
-John: "What if someone could invent something you could pour your un-diluted juice into, and at the push of a button it would mix the un-diluted juice with water from the tap at the exact ratio you tell it to!"  return
-Henry: "Hmmm, that would actually be quite useful, provided someone could make it work."  return
-John: "Meh, I'm sure someone has thought of it already."  return
+John: "Hey! I have an idea!"  
+Henry: "Oh dear, now what?"  
+John: "What if someone could invent something you could pour your un-diluted juice into, and at the push of a button it would mix the un-diluted juice with water from the tap at the exact ratio you tell it to!"  
+Henry: "Hmmm, that would actually be quite useful, provided someone could make it work."  
+John: "Meh, I'm sure someone has thought of it already."  
 
 The following is about something that probably bugs me a lot more than it should. About 8 months ago I said to myself, "I might as well make a blog-post of it, it would make for a good filler." So, having revamped this website I figured this would be a good time to put it into writing. Does it make for a good filler? Well, it makes for a filler.
 
@@ -27,6 +27,6 @@ And that is it. Every few weeks I go through the above in my head, and it always
 
 40 years from now there is bound to be a social networking site that catalogues all your thoughts. Your thoughts would be automatically categorised and labelled, and certain thoughts would be automatically shared with your friends based on dodgy privacy settings. Just think of how interesting and useful the trending topics would be! A feature of this site would, of course, be to alert you if the thought you just thought was unique, giving you a range of "perhaps you meant to think this?" options so you can be sure nothing too similar has been thought before.
 
-Now there's an idea…
+Now there's an idea...
 
 Photo by [Brian Hillegas](http://www.flickr.com/photos/seatbelt67/502255276/).
