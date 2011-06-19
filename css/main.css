@@ -135,7 +135,7 @@ vertical-align:middle; margin-bottom: 3px; }
   border-bottom: 1px solid #eee;
 }
 .related li span{
-  float: right;
+  float: left;
 }
 .related a{
   text-decoration: none;
