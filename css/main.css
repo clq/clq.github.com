@@ -72,6 +72,7 @@ line-height:36px; }
     width:689px;
     background-color:#E8E8E8;
     padding:30px;
+    overflow:auto;
 
 }
 
@@ -79,7 +80,6 @@ line-height:36px; }
 	font-family:arial;
 	font-size:11pt;
     max-width:9px;
-    overflow:auto;
     border-style:solid;
     border-width:5px;
     white-space:normal; 
