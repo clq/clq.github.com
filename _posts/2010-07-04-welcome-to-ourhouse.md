@@ -22,7 +22,7 @@ Having arrived in &Aring;rhus without as much as a-minor accident (har har, choi
 
 As soon as everyone had found themselves a nice spot on the floor to dump their stuff on and otherwise settled in, it was time for us to earn our keep. That night was to have an opening-concert, and all the youth-choirs were to sing a number at it. The concert was held in a hall with great acoustics. Apparently the greatest acoustics in Denmark or Scandinavia or Europe or something. The woman speaking about it was speaking a strange Danish language I, as a Norwegian, am apparently expected to understand. Despite my best, principle-driven efforts not to understand, I couldn't help catching a few tidbits here and there. One of them was that we were not, under any circumstances, allowed to bring bottles of water into the concert-hall. It would seem that water is the greatest enemy of acoustics.
 
-<div class="picture right" style="width:300px;"> <img src="http://www.christianleonardquale.com/wp-content/uploads/2010/11/bunader-300x150.jpg" alt="The girls in their Bunads." /> <br />The girls in their Bunads..</div>
+<div class="picture right" style="width:300px;"> <img src="http://www.christianleonardquale.com/wp-content/uploads/2010/11/bunader-300x150.jpg" alt="The girls in their Bunads." /> <br />The girls in their Bunads.</div>
 
 
 No water might not seem like that big of a deal, but when the temperature is high, the weather is humid, the hall is under-ventilated (after all, the sound of air-condition would completely make the the great acoustics of the hall go to waste!), and one has to sit on the stage in warm fancy clothes, water becomes quite an attractive commodity. I'll admit, I was lucky. I only had to wear black suit-trousers and a white shirt.  The girls wore the Norwegian national dress, the Bunad, which can probably be described as a very nice-looking complicated arrangement of pieces of wool.
@@ -33,4 +33,4 @@ The opening concert as a whole was also quite a success. The Danish/English "toa
 
 This post is getting very lengthy, so I am cutting it off here. Tune in some time in the near future for part two, in which Finnish is sung, pink is worn, food is eaten and the weather turns vicious. Edit: <a href="http://www.christianleonardquale.com/?p=71">Here it is, part 2.</a>
 
-All photos in the post are taken by <a href="http://www.jacobmathiasen.dk/?page_id=474" target="_blank">Jacob Mathiasen</a>.
+All photos in the post are taken by [http://www.jacobmathiasen.dk/?page_id=474](Jacob Mathiasen).
