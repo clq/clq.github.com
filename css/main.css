@@ -11,6 +11,13 @@
     background-color:#99FFCC;
 }
 
+#post-container {
+	font-family:sans-serif;
+	font-size:11pt;
+    color:#CC0000;
+    background-color:#FFFF00;
+}
+
 body {
 	background-color:#151B54;
 }
