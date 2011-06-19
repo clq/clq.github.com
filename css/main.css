@@ -75,6 +75,15 @@ line-height:36px; }
 
 }
 
+#image {
+	font-family:arial;
+	font-size:11pt;
+    width:auto;
+    border-style:solid;
+    border-width:5px;
+
+}
+
 body {
 	background-image:url('../css/background.gif');
     width:745px;
