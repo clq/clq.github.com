@@ -5,7 +5,7 @@ background:url(../img/navbar-bgbla.png) left top repeat-x; }
 #navbar .inbar{
 display:block;
 height:36px;
-background:url(../img/right-round.png) right top no-repeat; }
+background:url(../img/right-roundbla.png) right top no-repeat; }
 #navbar ul, #navbar ul li{
 border:0px;
 margin:0px;
@@ -13,7 +13,7 @@ padding:0px;
 list-style:none;
 height:36px;
 line-height:36px; } #navbar ul{
-background:url(../img/left-round.png) left top no-repeat; } 
+background:url(../img/left-roundbla.png) left top no-repeat; } 
 #navbar ul li{
 float:left;
 display:block;
