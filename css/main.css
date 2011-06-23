@@ -144,27 +144,22 @@ vertical-align:middle; margin-bottom: 3px; }
   text-decoration: underline;
 }
 
-.menu{
-    width: 100%;
- }
-    
-    .menu ul{
-    margin: 0; padding: 0;
-    float: left;}
- 
-.menu ul li{
-    display: inline;}
- 
-.menu ul li a{
-    float: left; text-decoration: none;
-    color: black;
-    padding: 10.5px 11px;
- }
- 
-.menu ul li a:visited{
-    color: black;}
- 
-.menu ul li a:hover, .menu ul li .current{
-    color: black;
-    background-color:#E0FFFF;}
+blockquote p
+    {
+    padding: 0px 15px 0px 0px;
+    font-size: 1.2em;    
+    float: left;
+}
+
+blockquote
+    {
+    padding: 20px;
+    font-size: 1.8em;    
+}
+
+cite
+    {
+    font-size: 1.2em;
+    float: right;    
+}
 
