@@ -157,12 +157,12 @@ vertical-align:middle; margin-bottom: 3px; }
  
 .menu ul li a{
     float: left; text-decoration: none;
-    color: white;
+    color: black;
     padding: 10.5px 11px;
-    background-color: #333; }
+ }
  
 .menu ul li a:visited{
-    color: white;}
+    color: black;}
  
 .menu ul li a:hover, .menu ul li .current{
     color: #fff;
