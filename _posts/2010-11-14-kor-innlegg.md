@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [NORWEGIAN] En tidligere korgutt om br&aring;ket rundt Domkirkens Guttekor
+title: En tidligere korgutt om br&aring;ket rundt Domkirkens Guttekor
 ---
 
 <img src="/img/ny.jpg" alt="New York"/>
