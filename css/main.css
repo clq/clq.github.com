@@ -154,7 +154,8 @@ blockquote p
 blockquote
     {
     padding: 10px;
-    font-size: 1.3em;    
+    font-size: 1.3em;
+    float: right;
 }
 
 cite
