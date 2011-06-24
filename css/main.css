@@ -153,13 +153,13 @@ blockquote p
 
 blockquote
     {
-    padding: 20px;
+    padding: 10px;
     font-size: 1.3em;    
 }
 
 cite
     {
     font-size: 0.6em;
-    float: left;    
+    float: right;    
 }
 
