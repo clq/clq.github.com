@@ -1,10 +1,7 @@
 ---
 layout: post
-title: En tidligere korgutt om br&aring;ket rundt Domkirkens Guttekor
+title: En tidligere korgutt om br&aring;ket rundt Domkirkens Guttekor [Norwegian]
 ---
-
-<img src="/img/ny.jpg" alt="New York"/>
-
 
 <div class="picture left" style="width:350px;"> <img src="http://clq.smugmug.com/photos/i-F8GJf7X/0/O/i-F8GJf7X.png" alt="Avis" /> <br />Publisert i Stavanger Aftenblad 13. November, 2010</div>
 
