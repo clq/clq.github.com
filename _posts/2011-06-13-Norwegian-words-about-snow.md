@@ -62,12 +62,12 @@ Snowy weather (verb) with dry, light snowflakes that aren't falling very quickly
 The name of the flakes falling in the weather described above: iming  
   
 A mixture of snow and rain falling: dape, dape  
-Very cold weather with just a bit of snow: gnastervêr  
+Very cold weather with just a bit of snow: gnasterv&ecirc;r  
 Very sporadic snow in otherwise very clear weather: heiske  
 The above, but the snow moves horizontally a lot before falling down: heideskav  
 A LOT of snow (verb): lave  
 Very light and small flakes of snow or rain with a very light wind: grim  
-Snowy weather: sn&oslash;vér  
+Snowy weather: sn&oslash;vér, sn&oslash;v&aelig;r  
 A sudden occurrence of very heavy snow: sn&oslash;byge  
 Average amount of snow falling down: sn&oslash;fall  
 Just a small amount of snow falling down: sn&oslash;dett  
@@ -96,7 +96,7 @@ Snow coming from above, but blowing around a lot: himmelsfok
 Snow coming from the ground, blowing around a lot (can also be used about dust, sand, etc.): jordfok, roksnjo  
 Wind with some snow blowing along in it: rennedriv, rennefok sn&oslash;fok  
 A period of time with a lot of cold weather and snow: illri  
-Weather involving a lot of wet snow: kleksevêr  
+Weather involving a lot of wet snow: kleksev&ecirc;r  
 Verb for the falling of very light and thin snow: sn&oslash;h&aelig;re  
 Very for the falling of very thin snow: sn&oslash;ravl  
 Snow is expected: sn&oslash;dr&aring;tt, sn&oslash;eleg  
