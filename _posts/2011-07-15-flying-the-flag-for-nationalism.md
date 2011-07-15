@@ -8,9 +8,9 @@ title: Let's fly the flag for... nationalism?
 
 On a piece of cloth, or a scrap of paper. Painted onto a cheek, or made up by a bunch of pixels on a computer-screen. If it happens to be a flag, it means something special to someone. But does a national flag necessarily represent nationalism?
 
-This blog-post originates from an observation by a British friend: "Wow, you Norwegians must be very nationalistic. You sure do use your flag a lot!"
-
 <div class="picture right" style="width:269px;"> <img src="http://clq.smugmug.com/photos/i-KS6pMtz/0/M/i-KS6pMtz-M.jpg" alt="17th of May" /> <br />Me in Edinburgh on the 17th of May, 2011... being Norwegian.</div>
+
+This blog-post originates from an observation by a British friend: "Wow, you Norwegians must be very nationalistic. You sure do use your flag a lot!"
 
 I was taken aback. Sure, on the 17th of May every year I get into a suit, take out my flag, and parade around with a bunch of other flag-waving Norwegians. I have been one of millions doing this in Norway, and one of a few hundred doing it in Edinburgh. A parade like this is bound to look over-the-top nationalistic, and I can't really argue that it doesn't. However, I don't consider myself, nor do I consider Norwegians in general to be very nationalistic. The question then remains, why do we prance around, waving the Norwegian flag, shouting "Hurra!" every year? 
 
