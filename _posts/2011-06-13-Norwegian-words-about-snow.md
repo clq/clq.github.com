@@ -67,7 +67,7 @@ Very sporadic snow in otherwise very clear weather: heiske
 The above, but the snow moves horizontally a lot before falling down: heideskav  
 A LOT of snow (verb): lave  
 Very light and small flakes of snow or rain with a very light wind: grim  
-Snowy weather: sn&oslash;vér, sn&oslash;v&aelig;r  
+Snowy weather: sn&oslash;v&eacute;r, sn&oslash;v&aelig;r  
 A sudden occurrence of very heavy snow: sn&oslash;byge  
 Average amount of snow falling down: sn&oslash;fall  
 Just a small amount of snow falling down: sn&oslash;dett  
