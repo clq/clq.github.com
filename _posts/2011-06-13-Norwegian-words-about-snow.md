@@ -6,8 +6,10 @@ title: Norwegian Words about Snow (A list in progress)
   
 One day I thought, "Hey! I should list all Norwegian words about snow!" Then I did. It has been a work in progress that I have kept coming back to for almost exactly a year now.  
   
-So, below is a list of Norwegian words about snow. It is probably far from comprehensive, and some of the translations are probably a bit off, but it is -a- list of Norwegian snow-words.  
-Note that a lot of the words are not commonly used, and a large amount are regional. However, though I haven't checked every single one, I think they are all officially accepted as Norwegian words.  
+So, below is a list of Norwegian words about snow. It is probably far from comprehensive, and some of the translations are probably a bit off, but it is -a- list of Norwegian snow-words.
+
+Note that a lot of the words are not commonly used, and a large amount are regional. However, though I haven't checked every single one, I think they are all officially accepted as Norwegian words.
+
 I got the huge majority of these words from the great list at http://www.nhdesign.com/snjoord.html, which seems to have set out to make a list like this. However, there are very few translations, and the definitions are incomplete. I did my best at translating and defining the remaining words, and also collected some words from various other sources.  
   
 I have omitted a large chunk of words: I am not including words that are, or describe equipment used to interact with snow. I have also omitted words where I think they become a little ridiculous (like snow-dog, snow-bear, snow-bunny, etc.)  
@@ -17,8 +19,8 @@ The list is far from perfect, but if I tried making it perfect I would probably 
 ------------------------------------------------------------------------------  
   
 Words for plain old snow: Sn&oslash;, snjo, snj&oslash;, snog, snjor, sjog, sjo, sny, snjy.  
-Old Norwegian words for snow: snár, snór, sn&aelig;r  
-Words for the verb, "to snow": sn&oslash;, sn&oslash;a, snjoa, snova, sn&oslash;va, snj&oslash;a, sn&oslash;ge, snoge, snjóge, snya, sne  
+Old Norwegian words for snow: sn&aacute;r, sn&oacute;r, sn&aelig;r  
+Words for the verb, "to snow": sn&oslash;, sn&oslash;a, snjoa, snova, sn&oslash;va, snj&oslash;a, sn&oslash;ge, snoge, snj&oacute;ge, snya, sne  
 Something that is covered with, messed up by, or full of snow: sn&oslash;ut, sn&oslash;ete, sn&oslash;ug  
   
 Hailstone: hagl  
