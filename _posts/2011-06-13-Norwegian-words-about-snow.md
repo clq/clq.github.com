@@ -189,7 +189,7 @@ Thick blob of snow floating down a river OR thin layer of snow on soild: sn&osla
 Adjective describing a geographical place with a lot of snow: sn&oslash;hard  
 Adjective describing a specific place with a lot of snow OR weather when it is almost about to start snowing: sn&oslash;tung  
 A place where the snow floats to, bunches up, and stays until spring: fonnest&oslash;de  
-A place with snow and ice… and not much else: is&oslash;de  
+A place with snow and ice... and not much else: is&oslash;de  
 Very slippery ice, under a layer of snow: underh&aring;l, svikh&aring;l, blindh&aring;l  
 Snow or ice that is almost transparent due to rain: glarh&aring;lke  
 The altitude that the snow starts appearing at: sn&oslash;grense, sn&oslash;linje  
@@ -230,7 +230,7 @@ Describing the condition when there is enough snow for it to be significant with
 When there is enough snow to use "snowshoes" (truger): trugf&oslash;re  
 When there is enough snow to ski on: skif&oslash;re  
 When there is enough snow to sleigh on: sledef&oslash;re  
-(and a lot of other -f&oslash;re describing the state of the snow…)  
+(and a lot of other -f&oslash;re describing the state of the snow...)  
   
 Skiing conditions where you may risk falling through the snow: naudbraut  
 Snow where tracks, footprints, etc. are very easy to spot: sporsn&oslash;  
