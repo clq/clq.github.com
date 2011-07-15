@@ -3,7 +3,9 @@ comments: true
 layout: post  
 title: Norwegian Words about Snow (A list in progress)  
 ---  
-  
+
+<img src="http://clq.smugmug.com/photos/i-hzsRDfC/0/O/i-hzsRDfC.jpg" alt="Snowy landscape."/>  
+
 One day I thought, "Hey! I should list all Norwegian words about snow!" Then I did. It has been a work in progress that I have kept coming back to for almost exactly a year now.  
   
 So, below is a list of Norwegian words about snow. It is probably far from comprehensive, and some of the translations are probably a bit off, but it is -a- list of Norwegian snow-words.
