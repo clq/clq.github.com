@@ -7,10 +7,25 @@
   <title>Christian's Website &raquo; {{ page.title }}</title>
   <meta name="author" content="Christian Leonard Quale" />
   <link href="/css/main.css" rel="stylesheet" type="text/css" >
+  
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-149885-4']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+  
 </head>
 <body>
   <div class="header" >
-    <a href="/index.html"><img src="/img/logo.png" alt="Christian's piece of the internet"/></a>
+    <a href="/index.html"><img src="/img/logo.png" alt="Christian's subsection of the internet"/></a>
   </div>
 <div id="navbar">
 <span class="inbar">
@@ -27,3 +42,4 @@
   {{ content }}
   </div>
 </body>
+</html>
