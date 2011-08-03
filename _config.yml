@@ -1,3 +1,6 @@
+name: Christian's subsection of the Internet
+description: Christian's subsection of the Internet
+url: http://www.christianleonardquale.com
 pygments: true
 permalink: /blog/posts/:title
 auto: true
