@@ -14,7 +14,6 @@ You have somehow stumbled over my personal website. Sorry about that.
  <h4>Five Least Ancient Blog Posts:</h4>
 
 {% for post in site.posts limit:5 %}
-    {% unless post.draft %}
     {{ post.date | date: "%e %B, %Y" }} &raquo; <a href="{{ post.url }}">{{ post.title }}</a><br>
 {% endfor %}
 
