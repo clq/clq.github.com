@@ -2,6 +2,7 @@
 layout: rss-feed
 ---
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE page SYSTEM "http://www.utoronto.ca/webdocs/HTMLdocs/HTML_Spec/html4.01/HTMLlat1.ent">
 <rss version="2.0">
 	<channel>
 		<title>{{ site.name }}</title>
