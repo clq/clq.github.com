@@ -2,7 +2,9 @@
 layout: rss-feed
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE rss [<!ENTITY % HTMLlat1 PUBLIC "-//W3C//ENTITIES Latin 1 for XHTML//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml-lat1.ent">]>
+<!DOCTYPE xsl:stylesheet [ 
+    <!ENTITY aring "&#229;" >
+    ]>
 <rss version="2.0">
 	<channel>
 		<title>{{ site.name }}</title>
