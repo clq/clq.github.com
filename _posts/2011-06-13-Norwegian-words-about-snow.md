@@ -221,7 +221,7 @@ Pushing and grinding someones face into the snow: kryne
 Vading through very deep snow: vodla  
 Vading in snow: grynne  
 Vading in snow that reaches you to the knees: knegrynne  
-Rubbing snow into someones face, "whitewash": sn&oslash;vask (Thanks to &Oslash;yvind for noting the absense of this)  
+Rubbing snow into someones face, "whitewash": sn&oslash;vask (Thanks to &Oslash;yvind)  
 Snowball fight: Sn&oslash;ballkrig  
   
 Words describing the condition, or characteristics of the snow:  
