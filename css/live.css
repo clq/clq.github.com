@@ -177,3 +177,11 @@ cite
     margin-bottom:55px;    
 }
 
+container {
+	font-family:sans-serif;
+	font-size:13pt;
+    width:685px;
+    background-color:#E8E8E8;
+    padding:30px;
+
+}
