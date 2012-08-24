@@ -1,7 +1,8 @@
-<html>
-<head>
-</head>
-<body>
+---
+layout: default
+title: Home
+---
+
 So, this isn't working?
 <script type="text/javascript">
 var _wf = _wf || {};
@@ -12,7 +13,7 @@ var _wf = _wf || {};
 _wf.blogUrl = 'package';
 
 // The ID of the element that you want to display the liveblog in. This can also be a HTML element reference or any other jQuery selector (which returns a single element).
-_wf.holder = '#body';
+_wf.holder = '#post-container';
 
 // ===== ONLY MODIFY THE TWO VARIABLES ABOVE =====
 
@@ -24,5 +25,3 @@ _wf.blogBaseUrl = _wf.baseUrl + _wf.blogUrl + '/';
 	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wfs, s);
 })();
 </script>
-</body>
-</html>
