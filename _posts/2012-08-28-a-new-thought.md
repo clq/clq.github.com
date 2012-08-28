@@ -1,6 +1,6 @@
 ---
-comments: true
-layout: post
+comments: false
+layout: thoughts
 title: A new thought...
 category: thought
 ---
