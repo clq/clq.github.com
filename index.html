@@ -11,6 +11,13 @@ title: Home
 You have somehow stumbled over my personal website. Sorry about that.
 <br>
 <br>
+<br>
+<h4>Five most recent <a href="thoughts.html">mini-posts/thoughts</a>:</h4>
+<br><br>
+{% for post in site.categories.thought limit:5 %}
+    {{ post.date | date: "%e %B" }} &raquo; <a href="{{ post.url }}">{{ post.title }}</a><br>
+{% endfor %}
+<br>
  <h4>Five Least Ancient Blog Posts:</h4>
 
 {% for post in site.posts limit:5 %}
@@ -21,8 +28,4 @@ You have somehow stumbled over my personal website. Sorry about that.
 <br>
   <a href="http://fusion.google.com/add?source=atgs&feedurl=http%3A//www.christianleonardquale.com/feed.xml"><img src="http://gmodules.com/ig/images/plus_google.gif" border="0" alt="Add to Google"></a> - 
 <a href="http://www.christianleonardquale.com/feed.xml">RSS feed</a>
-<br><br>
-And now I'm testing some thoughts... <br>
-{% for post in site.categories.thought limit:2 %}
-    {{ post.date | date: "%e %B" }} &raquo; <a href="{{ post.url }}">{{ post.title }}</a><br>
-{% endfor %}
+
