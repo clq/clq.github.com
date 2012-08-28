@@ -14,7 +14,9 @@ You have somehow stumbled over my personal website. Sorry about that.
  <h4>Five Least Ancient Blog Posts:</h4>
 
 {% for post in site.posts limit:5 %}
-    {{ post.date | date: "%e %B, %Y" }} &raquo; <a href="{{ post.url }}">{{ post.title }}</a><br>
+     {% unless post.category == "thought" %}
+        {{ post.date | date: "%e %B, %Y" }} &raquo; <a href="{{ post.url }}">{{ post.title }}</a><br>
+     {% endunless %}
 {% endfor %}
 <br>
   <a href="http://fusion.google.com/add?source=atgs&feedurl=http%3A//www.christianleonardquale.com/feed.xml"><img src="http://gmodules.com/ig/images/plus_google.gif" border="0" alt="Add to Google"></a> - 
